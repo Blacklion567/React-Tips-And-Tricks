@@ -1,5 +1,5 @@
-// import ReactMistakes01 from "./BeginnerMistakesRuinedYouAsADeveloper/ReactMistakes01";
-// import ReactMistakes02 from "./BeginnerMistakesRuinedYouAsADeveloper/ReactMistakes02";
+import ReactMistakes01 from "./BeginnerMistakesRuinedYouAsADeveloper/ReactMistakes01";
+import ReactMistakes02 from "./BeginnerMistakesRuinedYouAsADeveloper/ReactMistakes02";
 
 import ReactMistakes03 from "./BeginnerMistakesRuinedYouAsADeveloper/ReactMistakes03";
 
@@ -7,8 +7,8 @@ import ReactMistakes03 from "./BeginnerMistakesRuinedYouAsADeveloper/ReactMistak
 function App() {
   return (
     <>
-      {/* <ReactMistakes01 />
-      <ReactMistakes02 />*/}
+      <ReactMistakes01 />
+      <ReactMistakes02 />
       <ReactMistakes03 />
     </>
   );
